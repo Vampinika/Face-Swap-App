@@ -1,7 +1,5 @@
 streamlit
 opencv-python-headless
 numpy
-PIL
-onnxruntime
-insightface
-
+pillow
+scikit-image
